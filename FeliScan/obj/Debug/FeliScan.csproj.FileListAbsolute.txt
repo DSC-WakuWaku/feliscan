@@ -1,0 +1,6 @@
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\bin\Debug\FeliScan.exe.config
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\bin\Debug\FeliScan.exe
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\bin\Debug\FeliScan.pdb
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\bin\Debug\NfcStarterKitWrap.dll
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\obj\Debug\FeliScan.exe
+C:\Users\yamaguchi\Project\99_勉強\C\felica\FeliScan\FeliScan\obj\Debug\FeliScan.pdb
